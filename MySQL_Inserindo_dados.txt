@@ -1,4 +1,4 @@
--- 
+﻿-- 
 -- Tabela TIPO:
 -- 1, .NET
 -- 2, Banco de Dados
@@ -41,7 +41,7 @@
 -- 7, 4, 270
 
 --
--- Observe que para todas as tabelas, com exce��o de ALUNO, 
+-- Observe que para todas as tabelas, com excecao de ALUNO, 
 -- ser� apresentado as duas formas de incluir os dados.
 -- A primeira informando os campos e a ordem em que seriam informados, 
 -- e a segunda assumindo que todos os campos da tabela seriam informados.
